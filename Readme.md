@@ -16,7 +16,7 @@ Now to run: `flask run`
 
 - [x] Chapter 1: Hello, World! | 2 Aug
 - [x] Chapter 2: Templates (this article) | 2 Aug
-- [x] Chapter 3: Web Forms [#](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms)
+- [x] Chapter 3: Web Forms [#](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms) | 3 Aug
 - [ ] Chapter 4: Database [#](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database) <<- start here
 - [ ] Chapter 5: User Logins
 - [ ] Chapter 6: Profile Page and Avatars
